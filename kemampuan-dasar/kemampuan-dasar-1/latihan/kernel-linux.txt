@@ -1,0 +1,10 @@
+ Kemudian folder /boot, di folder ini isinya Kernel Linux/Unix, Grub, Image RAM, pokoknya segala hal yang diperlukan sebuah OS Linux/Unix untuk Booting up.
+
+
+File kernel, di Ubuntu, disimpan di folder / boot Anda dan disebut vmlinuz-versi. Nama vmlinuz berasal dari unix world di mana mereka biasa memanggil kernel mereka hanya “unix” pada tahun 60-an sehingga Linux mulai memanggil kernel mereka “linux” ketika pertama kali dikembangkan pada tahun 90-an.
+
+Ketika memori virtual dikembangkan untuk kemampuan multitasking yang lebih mudah, "vm" diletakkan di bagian depan file untuk menunjukkan bahwa kernel mendukung memori virtual. Untuk sementara kernel Linux disebut vmlinux, tetapi kernel tumbuh terlalu besar untuk masuk ke dalam memori boot yang tersedia sehingga imej kernel dikompresi dan akhir x diubah menjadi z untuk menunjukkan bahwa ia dikompres dengan kompresi zlib. Kompresi yang sama ini tidak selalu digunakan, sering digantikan dengan LZMA atau BZIP2, dan beberapa kernel hanya disebut zImage.
+
+Penomoran versi akan dalam format A.B.C.D di mana A.B mungkin akan menjadi 2.6, C akan menjadi versi Anda, dan D menunjukkan patch atau perbaikan Anda.
+
+Dalam folder / boot juga akan ada file-file penting lainnya yang disebut initrd.img-version, system.map-version, dan config-version. File initrd digunakan sebagai disk RAM kecil yang mengekstrak dan mengeksekusi file kernel yang sebenarnya. File system.map digunakan untuk manajemen memori sebelum kernel terisi penuh, dan file konfigurasi memberi tahu kernel opsi dan modul apa yang dimuat ke dalam imej kernel ketika sedang dikompilasi
