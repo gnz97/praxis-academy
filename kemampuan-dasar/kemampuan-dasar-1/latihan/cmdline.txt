@@ -1,0 +1,264 @@
+1. Listing files (ls)
+   perintah = ls 
+   hasil    = '~'       Documents   hs_err_pid1755.log   Pictures   rtl8821ce   Templates
+              Desktop   Downloads   Music                Public     snap        Videos
+ 
+
+   perintah = ls -l
+   hasil    = total 100
+              drwx------  3 root    root     4096 Des 25 18:15 '~'
+              drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Desktop
+              drwxr-xr-x  8 xname97 xname97  4096 Des 28 13:26  Documents
+              drwxr-xr-x 11 xname97 xname97  4096 Des 23 22:00  Downloads
+              -rw-rw-r--  1 xname97 xname97 53580 Des 28 13:27  hs_err_pid1755.log
+              drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Music
+              drwxr-xr-x  3 xname97 xname97  4096 Des 22 17:34  Pictures
+              drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Public
+              drwxr-xr-x  8 xname97 xname97  4096 Des 16 00:31  rtl8821ce
+              drwxr-xr-x  5 xname97 xname97  4096 Des 16 21:52  snap
+              drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Templates
+              drwxr-xr-x  3 xname97 xname97  4096 Des 25 17:59  Videos
+
+
+
+   perintah = ls -all
+   hasil    = total 192
+              drwx------  3 root    root     4096 Des 25 18:15 '~'
+              drwxr-xr-x 26 xname97 xname97  4096 Des 28 14:14  .
+              drwxr-xr-x  4 root    root     4096 Des 16 00:07  ..
+              -rw-------  1 xname97 xname97  5516 Des 28 13:27  .bash_history
+              -rw-r--r--  1 xname97 xname97   220 Des 16 00:07  .bash_logout
+              -rw-r--r--  1 xname97 xname97  3771 Des 16 00:07  .bashrc
+              drwx------ 19 xname97 xname97  4096 Des 21 23:26  .cache
+              drwx------ 18 xname97 xname97  4096 Des 25 17:59  .config
+              drwx------  3 root    root     4096 Des 16 21:30  .dbus
+              drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Desktop
+              drwxr-xr-x  8 xname97 xname97  4096 Des 28 13:26  Documents
+              drwxr-xr-x 11 xname97 xname97  4096 Des 23 22:00  Downloads
+   	      drwx------  3 xname97 xname97  4096 Des 16 00:36  .gnupg
+   	      drwxr-xr-x  2 xname97 xname97  4096 Des 21 22:15  .gphoto
+   	      drwx------  2 root    root     4096 Des 21 23:26  .gvfs
+   	      -rw-rw-r--  1 xname97 xname97 53580 Des 28 13:27  hs_err_pid1755.log
+   	      -rw-------  1 xname97 xname97 12238 Des 28 14:14  .ICEauthority
+   	      drwxrwxr-x  3 xname97 xname97  4096 Des 23 21:42  .java
+   	      drwx------  3 xname97 xname97  4096 Des 16 00:19  .local
+   	      drwx------  5 xname97 xname97  4096 Des 16 01:18  .mozilla
+   	      drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Music
+   	      drwxr-xr-x  3 xname97 xname97  4096 Des 22 17:34  Pictures
+   	      drwx------  3 xname97 xname97  4096 Des 16 21:52  .pki
+   	      -rw-r--r--  1 xname97 xname97   807 Des 16 00:07  .profile
+   	      drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Public
+   	      drwxr-xr-x  8 xname97 xname97  4096 Des 16 00:31  rtl8821ce
+   	      drwxr-xr-x  5 xname97 xname97  4096 Des 16 21:52  snap
+   	      drwx------  2 xname97 xname97  4096 Des 16 00:36  .ssh
+   	      -rw-r--r--  1 xname97 xname97     0 Des 16 00:21  .sudo_as_admin_successful
+  	      drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Templates
+	      drwxr-xr-x  3 xname97 xname97  4096 Des 25 17:59  Videos
+              drwxrwxr-x  3 xname97 xname97  4096 Des 16 21:52  .vscode
+              drwxrwxr-x  4 xname97 xname97  4096 Des 23 22:18  .xdman
+
+ 
+
+2. Listing Hidden Files
+   perintah = ls -a
+   hasil    = '~'  .bash_history .cache  Desktop    .gnupg   hs_err_pid1755.log  .local    Pictures   Public     .ssh                         Videos
+              .    .bash_logout  .config Documents  .gphoto  .ICEauthority       .mozilla  .pki       rtl8821ce  .sudo_as_admin_successful   .vscode
+              ..   .bashrc       .dbus   Downloads  .gvfs    .java               Music     .profile   snap       Templates                   .xdman
+
+
+
+5. Creating & Viewing Files
+   perintah  = cat>coba1
+   ketik     = ini hanya sample uji coba
+   perintah  = cat coba1
+   hasil     = ini hanya sample uji coba
+
+
+   perintah  = cat>coba1
+   ketik     = ini hanya sample uji coba1
+   perintah  = cat coba1
+   hasil     = ini hanya sample uji coba1
+
+   perintah  = cat>coba2
+   ketik     = ini hanya sample uji coba2
+   perintah  = cat coba2
+   hasil     = ini hanya sample uji coba2
+
+   perintah  = cat coba1 coba2 > coba
+   perintah  = cat coba
+   hasil     = ini hanya sample uji coba1
+               ini hanya sample uji coba2
+
+7. Menghapus file 
+   perintah = ls 
+   hasil    = '~'      coba2       Downloads            Pictures    sample    snap
+               coba    Desktop     hs_err_pid1755.log   Public      sample1   Templates
+               coba1   Documents   Music                rtl8821ce   sample2   Videos
+   perintah = rm coba1
+   perintah = ls 
+   hasil    = '~'      Desktop     hs_err_pid1755.log   Public      sample1   Templates
+               coba    Documents   Music                rtl8821ce   sample2   Videos
+               coba2   Downloads   Pictures             sample      snap
+ 
+8. Moving and Re-naming files
+   perintah = mv sample /home/xname97/Documents/
+   hasil    = '~'     Desktop     Downloads            Music      Public      sample1   snap        Videos
+               coba   Documents   hs_err_pid1755.log   Pictures   rtl8821ce   sample2   Templates
+
+   perintah = ls /home/xname97/Documents/
+   hasil    = coba2  ebook  sample
+
+
+9. Directory Manipulations
+   perintah = mkdir CobaDirektori
+   perintah = ls
+   hasil    = '~'     CobaDirektori   Documents   hs_err_pid1755.log   Pictures   rtl8821ce   sample2   Templates
+               coba   Desktop         Downloads   Music                Public     sample1     snap      Videos
+
+
+  perintah = mkdir cobadir1 Cobadir2 cobaadir3
+  perintah = ls -l
+  hasil    = total 184
+	     drwx------  3 root    root     4096 Des 25 18:15 '~'
+	     -rw-r--r--  1 xname97 xname97    54 Des 28 16:03  coba
+             drwxr-xr-x  2 xname97 xname97  4096 Des 28 19:15  cobadir1
+             drwxr-xr-x  2 xname97 xname97  4096 Des 28 19:15  cobadir2
+             drwxr-xr-x  2 xname97 xname97  4096 Des 28 19:15  cobadir3
+             drwxr-xr-x  2 xname97 xname97  4096 Des 28 16:46  CobaDirektori
+             drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Desktop
+             drwxr-xr-x  3 xname97 xname97  4096 Des 28 16:42  Documents
+             drwxr-xr-x 11 xname97 xname97  4096 Des 23 22:00  Downloads
+             -rw-rw-r--  1 xname97 xname97 53580 Des 28 13:27  hs_err_pid1755.log
+             -rw-rw-r--  1 xname97 xname97 55256 Des 28 16:58  hs_err_pid1775.log
+             drwxr-xr-x  3 xname97 xname97  4096 Des 28 16:38  Music
+	     drwxr-xr-x  3 xname97 xname97  4096 Des 22 17:34  Pictures
+             drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Public
+             drwxr-xr-x  8 xname97 xname97  4096 Des 16 00:31  rtl8821ce
+             -rw-r--r--  1 xname97 xname97    13 Des 28 16:01  sample1
+             -rw-r--r--  1 xname97 xname97    13 Des 28 16:01  sample2
+             drwxr-xr-x  5 xname97 xname97  4096 Des 16 21:52  snap
+             drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Templates
+             drwxr-xr-x  3 xname97 xname97  4096 Des 25 17:59  Videos
+
+
+10. Removing Directories
+    perintah = rmdir cobadir1
+    perintah = ls -l
+    hasil    = total 180
+	       drwx------  3 root    root     4096 Des 25 18:15 '~'
+	       -rw-r--r--  1 xname97 xname97    54 Des 28 16:03  coba
+	       drwxr-xr-x  2 xname97 xname97  4096 Des 28 19:15  cobadir2
+	       drwxr-xr-x  2 xname97 xname97  4096 Des 28 19:15  cobadir3
+	       drwxr-xr-x  2 xname97 xname97  4096 Des 28 16:46  CobaDirektori
+	       drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Desktop
+	       drwxr-xr-x  3 xname97 xname97  4096 Des 28 16:42  Documents
+	       drwxr-xr-x 11 xname97 xname97  4096 Des 23 22:00  Downloads
+	       -rw-rw-r--  1 xname97 xname97 53580 Des 28 13:27  hs_err_pid1755.log
+	       -rw-rw-r--  1 xname97 xname97 55256 Des 28 16:58  hs_err_pid1775.log
+	       drwxr-xr-x  3 xname97 xname97  4096 Des 28 16:38  Music
+	       drwxr-xr-x  3 xname97 xname97  4096 Des 22 17:34  Pictures
+	       drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Public
+	       drwxr-xr-x  8 xname97 xname97  4096 Des 16 00:31  rtl8821ce
+	       -rw-r--r--  1 xname97 xname97    13 Des 28 16:01  sample1
+	       -rw-r--r--  1 xname97 xname97    13 Des 28 16:01  sample2
+	       drwxr-xr-x  5 xname97 xname97  4096 Des 16 21:52  snap
+	       drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Templates
+	       drwxr-xr-x  3 xname97 xname97  4096 Des 25 17:59  Videos
+
+
+11 Renaming Directory
+   perintah = mv cobadir2 dir2
+   perintah = ls -l
+   hasil    = total 180
+	      drwx------  3 root    root     4096 Des 25 18:15 '~'
+	      -rw-r--r--  1 xname97 xname97    54 Des 28 16:03  coba
+	      drwxr-xr-x  2 xname97 xname97  4096 Des 28 19:15  cobadir3
+	      drwxr-xr-x  2 xname97 xname97  4096 Des 28 16:46  CobaDirektori
+	      drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Desktop
+	      drwxr-xr-x  2 xname97 xname97  4096 Des 28 19:15  dir2
+	      drwxr-xr-x  3 xname97 xname97  4096 Des 28 16:42  Documents
+	      drwxr-xr-x 11 xname97 xname97  4096 Des 23 22:00  Downloads
+	      -rw-rw-r--  1 xname97 xname97 53580 Des 28 13:27  hs_err_pid1755.log
+	      -rw-rw-r--  1 xname97 xname97 55256 Des 28 16:58  hs_err_pid1775.log
+	      drwxr-xr-x  3 xname97 xname97  4096 Des 28 16:38  Music
+	      drwxr-xr-x  3 xname97 xname97  4096 Des 22 17:34  Pictures
+	      drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Public
+	      drwxr-xr-x  8 xname97 xname97  4096 Des 16 00:31  rtl8821ce
+	      -rw-r--r--  1 xname97 xname97    13 Des 28 16:01  sample1
+	      -rw-r--r--  1 xname97 xname97    13 Des 28 16:01  sample2
+	      drwxr-xr-x  5 xname97 xname97  4096 Des 16 21:52  snap
+	      drwxr-xr-x  2 xname97 xname97  4096 Des 16 00:19  Templates
+	      drwxr-xr-x  3 xname97 xname97  4096 Des 25 17:59  Videos
+
+
+
+12 History
+   perintah = history
+   hasil    = 1  sudo apt update
+  	          2  reboot
+    	        3  sudo apt update
+   	          4  sudo apt upgrade
+   	          5  sudo apt update
+  	          6  sudo gedit ubuntu.css
+  	          7  sudo su
+ 	            8  history
+              9  env
+             10  env | grep "wayland"
+             11  printf 'Desktop: %s\nSession: %s\n' "$XDG_CURRENT_DESKTOP" "$GDMSESSION"
+             12  wmctrl -m
+             13  wmctrl -m
+ 	           14  sudo apt install wmctrl
+             15  wmctrl -m
+             16  sudo wmctrl -m
+             17  env
+             18  cd /etc/X11/
+             19  ls -l
+             20  cd app-defaults/
+             21  ls -l
+             22  uname -r
+             23  update-alternatives --list x-window-manager
+             24  cat /usr/bin/mutter
+             25  update-alternatives --list x-window-manager
+             26  cat /etc/X11/default-display-manager
+             27  echo $XDG_CURRENT_DESKTOP
+             28  ps -p $$
+             29  echo $0
+             30  wmctrl -m
+ 	           31  cat /usr/bin/mutter
+             32  gedit /usr/bin/mutter
+             33  env
+             34  env | grep "gtk3"
+             35  cd /etc/X11/
+             36  ls -l
+             37  cat default-display-manager
+             38  cd
+             39  env | grep "gdm3"
+             40  wmctrl -m
+             41  ls -l
+             42  mkdir cobadir1 cobadir2 cobadir3
+             43  ls -l
+             44  ls
+             45  ls -l
+             46  rmdir cobadir1
+             47  ls -l
+             48  mv cobadir2 dir2
+             49  ls -l
+             50  man
+             51  man man
+             52  history
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
