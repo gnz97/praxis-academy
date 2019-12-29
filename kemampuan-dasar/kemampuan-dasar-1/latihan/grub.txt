@@ -1,1 +1,22 @@
-grub
+Parameter Grub
+
+
+Untuk melihat parameter grub, caranya yaitu Ketika komputer baru pertama di nyalakan akan muncul tampilan grub, setelah itu klik huruf `e` di keyboard, maka akan muncul tampilan parameter grub. jika menginstall linux single boot, maka terkadang grubnya tidak muncul, untuk memunculkannya ketika komputer baru di nyalakan tekan tombol shift, maka grub akan muncul
+
+
+#Adapul ketika sudah masuk di dalam linux, buka terminal dan ketik perintah berikut : 
+    perintah = cat /proc/cmdline
+    
+#untuk melihat konfigurasinya grub, ketik perintah berikut : 
+   perintah = cat /etc/default/grub
+   
+   
+   
+   
+
+REFERENDI
+
+  -http://www.pintarkomputer.com/memahami-fungsi-dan-struktur-20-direktori-di-sistem-operasi-linux/
+  -https://www.howtoforge.com/tutorial/kernel-boot-parameter-edit/
+  -https://ncupisme.blogspot.com/2011/02/edit-menu-entry-grub-ubuntu.html
+  -https://ekajogja.com/arsip/tutorial-grub2-untuk-ubuntu/
