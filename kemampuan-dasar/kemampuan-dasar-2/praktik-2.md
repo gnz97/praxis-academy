@@ -103,17 +103,15 @@ Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru 
 ![24](https://user-images.githubusercontent.com/47927755/71555607-99930e80-2a60-11ea-937d-798238aa5310.png)
 
 
-=>muncul tampilan berikut, dan kita menamakan file README.md
-![25](https://user-images.githubusercontent.com/47927755/71555608-9a2ba500-2a60-11ea-9a42-f24c9524d19e.png)
-
+=>muncul tampilan berikut, dan kita menamakan file README.md, dan kemudian lanjut untuk mengisi data tersebut, dan klik commit new file
 
 ![25-1](https://user-images.githubusercontent.com/47927755/71555609-9b5cd200-2a60-11ea-8449-9602acbc1136.png)
 
 
+=>Maka akan muncul file baru yang bernama README.md
 ![26](https://user-images.githubusercontent.com/47927755/71555610-9b5cd200-2a60-11ea-9346-021e2d8c3393.png)
 
 
-![27](https://user-images.githubusercontent.com/47927755/71555611-9c8dff00-2a60-11ea-9c45-2ab5b2aa0a12.png)
 
 
 ![28](https://user-images.githubusercontent.com/47927755/71555612-9c8dff00-2a60-11ea-9f13-889324d1473f.png)
