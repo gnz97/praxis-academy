@@ -130,15 +130,15 @@ Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru 
 ![31](https://user-images.githubusercontent.com/47927755/71555615-9d269580-2a60-11ea-8d01-5acbffed5c49.png)
 
 
-
+=>Di bawah ini adalah data yang di tambahkan
 
 ![32](https://user-images.githubusercontent.com/47927755/71555617-9dbf2c00-2a60-11ea-9146-2bd5f19523db.png)
 
-=>Di bawah ini adalah data yang di tambahkan
+=>Member mengisi comentar bahwa ada data baru yang di tambahkan
 
 ![33](https://user-images.githubusercontent.com/47927755/71555618-9ef05900-2a60-11ea-87ac-9b52fd0e2b16.png)
 
-=>Member mengisi comentar bahwa ada data baru yang di tambahkan
+
 
 ![34](https://user-images.githubusercontent.com/47927755/71555619-9ef05900-2a60-11ea-945a-4ba8fef91e93.png)
 
