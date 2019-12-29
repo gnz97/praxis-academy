@@ -22,3 +22,7 @@
 
 =>Ketik graph
 ![8](https://user-images.githubusercontent.com/47927755/71553723-b7ec1080-2a46-11ea-81c6-57a15babec18.png)
+
+
+=>Lanjutan baris
+![8-1](https://user-images.githubusercontent.com/47927755/71553731-f681cb00-2a46-11ea-867a-6006401b9fa5.png)
