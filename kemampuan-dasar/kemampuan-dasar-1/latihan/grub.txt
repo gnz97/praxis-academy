@@ -1,10 +1,12 @@
 Parameter Grub
 
 
-Untuk melihat parameter grub, caranya yaitu Ketika komputer baru pertama di nyalakan akan muncul tampilan grub, setelah itu klik huruf `e` di keyboard, maka akan muncul tampilan parameter grub. jika menginstall linux single boot, maka terkadang grubnya tidak muncul, untuk memunculkannya ketika komputer baru di nyalakan tekan tombol shift, maka grub akan muncul
+Untuk melihat parameter grub, caranya yaitu Ketika komputer baru pertama di nyalakan akan muncul tampilan grub, setelah itu klik huruf `e` 
+di keyboard, maka akan muncul tampilan parameter grub. jika menginstall linux single boot, maka terkadang grubnya tidak muncul, untuk 
+memunculkannya ketika komputer baru di nyalakan tekan tombol shift, maka grub akan muncul
 
 
-#Adapul ketika sudah masuk di dalam linux, buka terminal dan ketik perintah berikut : 
+#Adapun ketika sudah masuk di dalam linux, buka terminal dan ketik perintah berikut : 
     perintah = cat /proc/cmdline
     
 #untuk melihat konfigurasinya grub, ketik perintah berikut : 
