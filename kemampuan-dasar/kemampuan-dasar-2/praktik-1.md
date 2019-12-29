@@ -38,3 +38,10 @@
 
 =>Ketik commit
 ![12](https://user-images.githubusercontent.com/47927755/71553867-10bca880-2a49-11ea-8718-bda0ac24d508.png)
+
+=>ketik git status
+![13](https://user-images.githubusercontent.com/47927755/71553896-80329800-2a49-11ea-8011-16c079050bca.png)
+
+=> Ketik git add . setelah itu ketik git commit sekalian dengan komentar
+![14](https://user-images.githubusercontent.com/47927755/71553901-c2f47000-2a49-11ea-8ef7-e52cac1515b4.png)
+
