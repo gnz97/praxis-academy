@@ -1,4 +1,4 @@
-1.	Teknologi informasi (TI) adalah penggunaan komputer yang untuk menyimpan, mengambil, mengirim, dan memanipulasi data atau informasi. Sebelunya adanya teknologi  Manusia telah menyimpan, mengambil, memanipulasi, dan mengkomunikasikan informasi sejak bangsa Sumeria di Mesopotamia mengembangkan penulisan pada sekitar 3000 SM, 
+1.	Teknologi informasi (TI) adalah penggunaan komputer yang untuk menyimpan, mengambil, mengirim, dan memanipulasi data atau informasi. 		 Sebelunya adanya teknologi  Manusia telah menyimpan, mengambil, memanipulasi, dan mengkomunikasikan informasi sejak bangsa Sumeria 		di Mesopotamia mengembangkan penulisan pada sekitar 3000 SM, 
 
 Perangkat telah digunakan untuk membantu perhitungan selama ribuan tahun, mungkin awalnya dalam bentuk penghitungan batang. Mekanisme Antikythera, berasal dari sekitar awal abad pertama SM, umumnya dianggap sebagai komputer analog mekanik yang paling awal diketahui, dan mekanisme diarahkan paling awal,  sampai abad ke-16 tahun 1645 pengembangan kalkulator mekanik pertama yang mampu melakukan empat operasi aritmatika dasar dikembangkan di eropa
 
