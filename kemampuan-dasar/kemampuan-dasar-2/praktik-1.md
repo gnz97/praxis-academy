@@ -71,5 +71,5 @@
 =>ketik graph untuk melihat daftar file
 ![21](https://user-images.githubusercontent.com/47927755/71554151-123c9f80-2a4e-11ea-9aa4-569ad5513c33.png)
 
-=>Lanjut untuk mengetik pull
+=>Lanjut untuk mengetik git pull
 ![22](https://user-images.githubusercontent.com/47927755/71554252-70b64d80-2a4f-11ea-9125-4de51d0801b9.png)
