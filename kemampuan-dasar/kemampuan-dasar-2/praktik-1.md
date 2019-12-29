@@ -12,3 +12,6 @@
 
 =>Ketik git remote  -v
 ![5 2](https://user-images.githubusercontent.com/47927755/71553625-5d9e8000-2a45-11ea-9db5-885382640cce.png)
+
+=>Ketik git status untuk melihat status pada git
+![6 1](https://user-images.githubusercontent.com/47927755/71553657-d7cf0480-2a45-11ea-93d9-a8d68e89e99c.png)
