@@ -116,6 +116,7 @@ Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru 
 =>Maka akan muncul file baru yang bernama README.md
 ![28](https://user-images.githubusercontent.com/47927755/71555612-9c8dff00-2a60-11ea-9f13-889324d1473f.png)
 
+=>Setelah itu klik dan lihat filenya
 
 ![29](https://user-images.githubusercontent.com/47927755/71555613-9d269580-2a60-11ea-806f-15dcd0bc2308.png)
 
