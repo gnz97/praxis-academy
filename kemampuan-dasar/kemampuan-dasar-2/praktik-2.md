@@ -93,14 +93,17 @@ Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru 
 
 
 
-
+=>Setelah itu masuk kedalam tampulan organisasi, dan kemudian klik repositori belajar_coding
 
 ![23](https://user-images.githubusercontent.com/47927755/71555606-98fa7800-2a60-11ea-941c-0c7d74456f1c.png)
+
+=>setelah itu muncul tampilan di bawah ini, dan klik "createing a new file" 
 
 
 ![24](https://user-images.githubusercontent.com/47927755/71555607-99930e80-2a60-11ea-937d-798238aa5310.png)
 
 
+=>muncul tampilan berikut, dan kita menamakan file README.md
 ![25](https://user-images.githubusercontent.com/47927755/71555608-9a2ba500-2a60-11ea-9a42-f24c9524d19e.png)
 
 
