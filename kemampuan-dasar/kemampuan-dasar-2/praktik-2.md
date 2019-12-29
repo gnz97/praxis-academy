@@ -49,7 +49,7 @@ Team Collaboration with GitHub
 ![11](https://user-images.githubusercontent.com/47927755/71555591-96981e00-2a60-11ea-99b8-9184aa01d6ef.png)
 
 
-Ketika kita kilik Invete Team untuk bergabung, bakal ada notivikasi di email tim tersebut, dan ketika di jalankan maka muncul gambar seperti di bawah ini
+Ketika kita kilik Invete Team untuk bergabung, bakal ada notivikasi di email tim tersebut, dan ketika di jalankan maka muncul gambar seperti di bawah ini, team harus mengklik tombol join untuk bergabung ke dalam organization,
 ![1](https://user-images.githubusercontent.com/47927755/71555638-c515f900-2a60-11ea-9710-faf782462200.png)
 
 ![2](https://user-images.githubusercontent.com/47927755/71555639-c5ae8f80-2a60-11ea-845d-1ce6f07f394a.png)
