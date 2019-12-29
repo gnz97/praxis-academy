@@ -26,3 +26,6 @@
 
 =>Lanjutan baris
 ![8-1](https://user-images.githubusercontent.com/47927755/71553731-f681cb00-2a46-11ea-867a-6006401b9fa5.png)
+
+=>Membuat folder kemampuan-dasar-2
+![9](https://user-images.githubusercontent.com/47927755/71553786-def71200-2a47-11ea-97f3-2580567826db.png)
