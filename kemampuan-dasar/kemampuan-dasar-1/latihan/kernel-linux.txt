@@ -1,10 +1,37 @@
- Kemudian folder /boot, di folder ini isinya Kernel Linux/Unix, Grub, Image RAM, pokoknya segala hal yang diperlukan sebuah OS Linux/Unix untuk Booting up.
+Melihat Fersi Kernel yang di gunakan 
+
+perintah = uname -r
+hasil    = 5.0.0-37-generic
+
+Melihat Lokasi Kernel 
+
+perintah = ls -l /boot/
+total 106156
+-rw-r--r-- 1 root root   224446 Jul 29 22:46 config-5.0.0-23-generic
+-rw-r--r-- 1 root root   224496 Nov 14 18:10 config-5.0.0-37-generic
+drwx------ 3 root root     4096 Jan  1  1970 efi
+drwxr-xr-x 5 root root     4096 Des 21 22:53 grub
+-rw-r--r-- 1 root root 40763407 Des 21 22:46 initrd.img-5.0.0-23-generic
+-rw-r--r-- 1 root root 40823456 Des 22 17:19 initrd.img-5.0.0-37-generic
+-rw-r--r-- 1 root root   182704 Jan 28  2016 memtest86+.bin
+-rw-r--r-- 1 root root   184380 Jan 28  2016 memtest86+.elf
+-rw-r--r-- 1 root root   184840 Jan 28  2016 memtest86+_multiboot.bin
+-rw------- 1 root root  4289273 Jul 29 22:46 System.map-5.0.0-23-generic
+-rw------- 1 root root  4302188 Nov 14 18:10 System.map-5.0.0-37-generic
+-rw-r--r-- 1 root root  8707832 Des 16 06:53 vmlinuz-5.0.0-23-generic
+-rw------- 1 root root  8785656 Nov 14 17:29 vmlinuz-5.0.0-37-generic
 
 
-File kernel, di Ubuntu, disimpan di folder / boot Anda dan disebut vmlinuz-versi. Nama vmlinuz berasal dari unix world di mana mereka biasa memanggil kernel mereka hanya “unix” pada tahun 60-an sehingga Linux mulai memanggil kernel mereka “linux” ketika pertama kali dikembangkan pada tahun 90-an.
+Kernel linux yang di gunakan = vmlinuz-5.0.0-37-generic
+
 
 Ketika memori virtual dikembangkan untuk kemampuan multitasking yang lebih mudah, "vm" diletakkan di bagian depan file untuk menunjukkan bahwa kernel mendukung memori virtual. Untuk sementara kernel Linux disebut vmlinux, tetapi kernel tumbuh terlalu besar untuk masuk ke dalam memori boot yang tersedia sehingga imej kernel dikompresi dan akhir x diubah menjadi z untuk menunjukkan bahwa ia dikompres dengan kompresi zlib. Kompresi yang sama ini tidak selalu digunakan, sering digantikan dengan LZMA atau BZIP2, dan beberapa kernel hanya disebut zImage.
 
-Penomoran versi akan dalam format A.B.C.D di mana A.B mungkin akan menjadi 2.6, C akan menjadi versi Anda, dan D menunjukkan patch atau perbaikan Anda.
 
-Dalam folder / boot juga akan ada file-file penting lainnya yang disebut initrd.img-version, system.map-version, dan config-version. File initrd digunakan sebagai disk RAM kecil yang mengekstrak dan mengeksekusi file kernel yang sebenarnya. File system.map digunakan untuk manajemen memori sebelum kernel terisi penuh, dan file konfigurasi memberi tahu kernel opsi dan modul apa yang dimuat ke dalam imej kernel ketika sedang dikompilasi
+Dalam folder / boot juga ada file-file penting lainnya seperti :
+
+ 1. initrd.img-version : initrd digunakan sebagai disk RAM kecil yang mengekstrak dan mengeksekusi file kernel yang sebenarnya.
+ 2. system.map-version : File system.map digunakan untuk manajemen memori sebelum kernel terisi penuh,
+ 3. config-version     : file config memberi tahu kernel opsi dan modul apa yang dimuat ke dalam imej kernel ketika sedang      
+                         dikompilasi
+ 4. memtest86+         : Memtest86+ adalah program perangkat lunak uji memori 
