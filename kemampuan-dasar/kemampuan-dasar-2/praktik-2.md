@@ -92,7 +92,7 @@ Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru 
 
 
 
-![22](https://user-images.githubusercontent.com/47927755/71555604-98fa7800-2a60-11ea-8f57-0274824dc1d6.png)
+
 
 
 ![23](https://user-images.githubusercontent.com/47927755/71555606-98fa7800-2a60-11ea-941c-0c7d74456f1c.png)
