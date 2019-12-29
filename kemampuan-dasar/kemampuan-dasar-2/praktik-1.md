@@ -52,3 +52,7 @@
 =>Ketik graph
 
 ![16](https://user-images.githubusercontent.com/47927755/71553940-6e9dc000-2a4a-11ea-82aa-b7d070cad0d2.png)
+
+=>Ketik
+
+![17](https://user-images.githubusercontent.com/47927755/71553956-b7557900-2a4a-11ea-900a-70a1cd0351a3.png)
