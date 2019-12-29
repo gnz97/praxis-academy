@@ -3,6 +3,7 @@ Melihat Fersi Kernel yang di gunakan
 perintah = uname -r
 hasil    = 5.0.0-37-generic
 
+
 Melihat Lokasi Kernel 
 
 perintah = ls -l /boot/
@@ -32,6 +33,6 @@ Dalam folder / boot juga ada file-file penting lainnya seperti :
 
  1. initrd.img-version : initrd digunakan sebagai disk RAM kecil yang mengekstrak dan mengeksekusi file kernel yang sebenarnya.
  2. system.map-version : File system.map digunakan untuk manajemen memori sebelum kernel terisi penuh,
- 3. config-version     : file config memberi tahu kernel opsi dan modul apa yang dimuat ke dalam imej kernel ketika sedang      
+ 3. config-version     : file config memberi tahu kernel opsi dan modul apa yang dimuat ke dalam kernel ketika sedang      
                          dikompilasi
  4. memtest86+         : Memtest86+ adalah program perangkat lunak uji memori 
