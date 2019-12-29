@@ -11,43 +11,44 @@ Team Collaboration with GitHub
 
 
 =>Muncul Tampilan Organisation
+=>Lanjut untuk mengklik new Organisation di bagian kanan atas
 ![3](https://user-images.githubusercontent.com/47927755/71555583-9435c400-2a60-11ea-91c9-f3cd83531e95.png)
 
 
-=>Lanjut untuk mengklik new Organisation di bagian kanan atas
+=>Setelah itu pilih yang bagian Team for Open Sourch
 ![4](https://user-images.githubusercontent.com/47927755/71555584-94ce5a80-2a60-11ea-98da-3a87b7d97451.png)
 
 
-=>Setelah itu pilih yang bagian Team for Open Sourch
+=>Muncul tampilan form pengisian, isi nama organisasi, email, dan centang "my personal acount" 
 ![5](https://user-images.githubusercontent.com/47927755/71555585-9566f100-2a60-11ea-896f-cbd5aac996b4.png)
 
 
-=>Muncul tampilan form pengisian, isi nama organisasi, email, dan centang "my personal acount" 
+=>Tambahkan member di dalam organisasi
 ![6](https://user-images.githubusercontent.com/47927755/71555586-9566f100-2a60-11ea-81b7-6bf4e28f2a42.png)
 
 
-=>Tambahkan member di dalam organisasi
+=>Jika namanya tidak ada maka tidak akan muncul, akan tetapi jika ada namnya terdaftar
 ![7](https://user-images.githubusercontent.com/47927755/71555587-9566f100-2a60-11ea-8de0-773139ead9f4.png)
 
 
-=>Jika namanya tidak ada maka tidak akan muncul, akan tetapi jika ada namnya terdaftar
+=>Jika namanya tidak terdaftar maka tidak akan muncul, akan tetapi jika ada namnya terdaftar maka muncul seperti gambar di bawah ini
 ![8](https://user-images.githubusercontent.com/47927755/71555588-95ff8780-2a60-11ea-8278-d9c85925837a.png)
 
 
-=>Jika namanya tidak terdaftar maka tidak akan muncul, akan tetapi jika ada namnya terdaftar maka muncul seperti gambar di bawah ini
-![9](https://user-images.githubusercontent.com/47927755/71555589-95ff8780-2a60-11ea-9395-817fee83d01d.png)
-
 =>Setelah itu langsung muncul tampilan seperti di bawah ini, selanjutnya klik new repository unutk membuat repository
 
-
-![10](https://user-images.githubusercontent.com/47927755/71555590-95ff8780-2a60-11ea-9159-61f2055a47c6.png)
+![9](https://user-images.githubusercontent.com/47927755/71555589-95ff8780-2a60-11ea-9395-817fee83d01d.png)
 
 
 =>isi nama repository, dan klik create repository
-![11](https://user-images.githubusercontent.com/47927755/71555591-96981e00-2a60-11ea-99b8-9184aa01d6ef.png)
+![10](https://user-images.githubusercontent.com/47927755/71555590-95ff8780-2a60-11ea-9159-61f2055a47c6.png)
 
 
 =>Setelah itu bakal muncul tampilandi bawah ini
+
+![11](https://user-images.githubusercontent.com/47927755/71555591-96981e00-2a60-11ea-99b8-9184aa01d6ef.png)
+
+
 ![12](https://user-images.githubusercontent.com/47927755/71555592-9730b480-2a60-11ea-96e0-de607ba219a6.png)
 
 
