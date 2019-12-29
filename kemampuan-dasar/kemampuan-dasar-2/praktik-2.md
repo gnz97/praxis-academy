@@ -142,7 +142,6 @@ Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru 
 
 ![34](https://user-images.githubusercontent.com/47927755/71555619-9ef05900-2a60-11ea-945a-4ba8fef91e93.png)
 
-
 ![35](https://user-images.githubusercontent.com/47927755/71555620-9ef05900-2a60-11ea-8823-492cbb44ba8d.png)
 
 
@@ -153,9 +152,10 @@ Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru 
 =>Dari Akun master belum mendapatkan perubahan
 ![37](https://user-images.githubusercontent.com/47927755/71555622-9f88ef80-2a60-11ea-84e7-4d685f9229a5.png)
 
-
+=>Untuk melihat perubahannya klik pull requests
 ![38](https://user-images.githubusercontent.com/47927755/71555623-a0218600-2a60-11ea-8bee-9c01bf83c499.png)
 
+=>Setelah itu klik UPDATE README.md
 
 ![39](https://user-images.githubusercontent.com/47927755/71555624-a0218600-2a60-11ea-8f6f-6350d313b9e4.png)
 
