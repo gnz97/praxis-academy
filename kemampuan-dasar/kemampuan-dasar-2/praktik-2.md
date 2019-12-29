@@ -108,12 +108,12 @@ Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru 
 ![25-1](https://user-images.githubusercontent.com/47927755/71555609-9b5cd200-2a60-11ea-8449-9602acbc1136.png)
 
 
-=>Maka akan muncul file baru yang bernama README.md
 ![26](https://user-images.githubusercontent.com/47927755/71555610-9b5cd200-2a60-11ea-9346-021e2d8c3393.png)
 
 
 
 
+=>Maka akan muncul file baru yang bernama README.md
 ![28](https://user-images.githubusercontent.com/47927755/71555612-9c8dff00-2a60-11ea-9f13-889324d1473f.png)
 
 
