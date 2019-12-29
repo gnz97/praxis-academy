@@ -31,4 +31,4 @@
 ![9](https://user-images.githubusercontent.com/47927755/71553786-def71200-2a47-11ea-97f3-2580567826db.png)
 
 =>Membuat folder kemampuan-dasar-2
-![10-1](https://user-images.githubusercontent.com/47927755/71553815-46ad5d00-2a48-11ea-8010-7f3f1561b31b.png)
+![10-2](https://user-images.githubusercontent.com/47927755/71553826-73fa0b00-2a48-11ea-8bef-7fd5efc1ee2f.png)
