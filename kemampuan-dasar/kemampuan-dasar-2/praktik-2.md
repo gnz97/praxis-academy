@@ -122,13 +122,14 @@ Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru 
 
 
 
+
+=>Kemudian salah satu member menambahkan data baru
 ![30](https://user-images.githubusercontent.com/47927755/71555614-9d269580-2a60-11ea-8eea-db1c8d817223.png)
 
 
 ![31](https://user-images.githubusercontent.com/47927755/71555615-9d269580-2a60-11ea-8d01-5acbffed5c49.png)
 
 
-=>Kemudian salah satu member menambahkan data baru
 
 
 ![32](https://user-images.githubusercontent.com/47927755/71555617-9dbf2c00-2a60-11ea-9146-2bd5f19523db.png)
