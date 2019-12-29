@@ -47,3 +47,8 @@
 
 =>Ketik git status
 ![15-1](https://user-images.githubusercontent.com/47927755/71553921-15ce2780-2a4a-11ea-86fd-32b32846364f.png)
+
+
+=>Ketik graph
+
+![16](https://user-images.githubusercontent.com/47927755/71553940-6e9dc000-2a4a-11ea-82aa-b7d070cad0d2.png)
