@@ -159,13 +159,13 @@ Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru 
 
 ![39](https://user-images.githubusercontent.com/47927755/71555624-a0218600-2a60-11ea-8f6f-6350d313b9e4.png)
 
-
+=>Melihat pesan yang muncul, yaitu dari member yang telah menambahkan data di README.md, setelah itu klik marge pull request 
 ![40](https://user-images.githubusercontent.com/47927755/71555626-a0ba1c80-2a60-11ea-9f4b-e6780a578b7a.png)
 
-
+=>klik confirm marge
 ![41](https://user-images.githubusercontent.com/47927755/71555627-a0ba1c80-2a60-11ea-906f-aa623a6f3b17.png)
 
-
+=>Kemudian Data master akan di perbaruhi, dan data yang di tambahkan member telah di masukan ke data master
 ![42](https://user-images.githubusercontent.com/47927755/71555628-a0ba1c80-2a60-11ea-8adb-d688c2dfa4d8.png)
 
 
