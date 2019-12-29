@@ -10,8 +10,7 @@ Team Collaboration with GitHub
 ![2](https://user-images.githubusercontent.com/47927755/71555581-9435c400-2a60-11ea-85db-29a70d706191.png)
 
 
-=>Muncul Tampilan Organisation
-=>Lanjut untuk mengklik new Organisation di bagian kanan atas
+=>Muncul Tampilan Organisation, Lanjut untuk mengklik new Organisation di bagian kanan atas
 ![3](https://user-images.githubusercontent.com/47927755/71555583-9435c400-2a60-11ea-91c9-f3cd83531e95.png)
 
 
@@ -28,6 +27,7 @@ Team Collaboration with GitHub
 
 
 =>Jika namanya tidak terdaftar maka tidak akan muncul, akan tetapi jika ada namnya terdaftar maka muncul seperti gambar di bawah ini
+
 ![7](https://user-images.githubusercontent.com/47927755/71555587-9566f100-2a60-11ea-8de0-773139ead9f4.png)
 
 =>Setelah itu langsung muncul tampilan seperti di bawah ini, selanjutnya klik new repository unutk membuat repository
@@ -39,7 +39,7 @@ Team Collaboration with GitHub
 =>isi nama repository, dan klik create repository
 ![9](https://user-images.githubusercontent.com/47927755/71555589-95ff8780-2a60-11ea-9395-817fee83d01d.png)
 
-=>Setelah itu bakal muncul tampilandi bawah ini
+=>Setelah itu bakal muncul tampilan di bawah ini
 
 ![10](https://user-images.githubusercontent.com/47927755/71555590-95ff8780-2a60-11ea-9159-61f2055a47c6.png)
 
