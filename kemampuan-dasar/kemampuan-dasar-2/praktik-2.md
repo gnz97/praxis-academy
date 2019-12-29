@@ -149,6 +149,8 @@ Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru 
 ![36](https://user-images.githubusercontent.com/47927755/71555621-9f88ef80-2a60-11ea-94b0-9cf15d73b89d.png)
 
 
+
+=>Dari Akun master belum mendapatkan perubahan
 ![37](https://user-images.githubusercontent.com/47927755/71555622-9f88ef80-2a60-11ea-84e7-4d685f9229a5.png)
 
 
