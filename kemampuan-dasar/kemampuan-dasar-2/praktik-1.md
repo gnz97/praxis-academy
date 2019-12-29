@@ -32,3 +32,9 @@
 
 =>Membuat folder kemampuan-dasar-2
 ![10-2](https://user-images.githubusercontent.com/47927755/71553826-73fa0b00-2a48-11ea-8bef-7fd5efc1ee2f.png)
+
+=> Ketik git add .
+![11](https://user-images.githubusercontent.com/47927755/71553861-fbe01500-2a48-11ea-96f3-eb2d690cf589.png)
+
+=>Ketik 
+![12](https://user-images.githubusercontent.com/47927755/71553867-10bca880-2a49-11ea-8718-bda0ac24d508.png)
