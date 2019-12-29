@@ -90,10 +90,6 @@ Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru 
 ![19](https://user-images.githubusercontent.com/47927755/71555600-9861e180-2a60-11ea-9def-4e629f7dde4a.png)
 
 
-![20](https://user-images.githubusercontent.com/47927755/71555602-9861e180-2a60-11ea-9e75-433212a9f72d.png)
-
-
-![21](https://user-images.githubusercontent.com/47927755/71555603-98fa7800-2a60-11ea-817f-a8164a93beb4.png)
 
 
 ![22](https://user-images.githubusercontent.com/47927755/71555604-98fa7800-2a60-11ea-8f57-0274824dc1d6.png)
