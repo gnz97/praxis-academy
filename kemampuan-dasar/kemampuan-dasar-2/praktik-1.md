@@ -45,3 +45,5 @@
 => Ketik git add . setelah itu ketik git commit sekalian dengan komentar
 ![14](https://user-images.githubusercontent.com/47927755/71553901-c2f47000-2a49-11ea-8ef7-e52cac1515b4.png)
 
+=>Ketik 
+![15-1](https://user-images.githubusercontent.com/47927755/71553921-15ce2780-2a4a-11ea-86fd-32b32846364f.png)
