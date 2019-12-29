@@ -1,6 +1,6 @@
 Team Collaboration with GitHub
 
-=>
+=>UNtuk Membuat Kalaborasi dengan tim, Pertama kita masuk ke menu seting di pojok kanan, di dekat profil
 ![1](https://user-images.githubusercontent.com/47927755/71555580-939d2d80-2a60-11ea-91e0-ffab98d78c2f.png)
 
 
