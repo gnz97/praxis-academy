@@ -15,3 +15,7 @@
 
 =>Ketik git status untuk melihat status pada git
 ![6 1](https://user-images.githubusercontent.com/47927755/71553657-d7cf0480-2a45-11ea-93d9-a8d68e89e99c.png)
+
+
+=> alias graph="git log --all --decorate --oneline --graph"
+![7](https://user-images.githubusercontent.com/47927755/71553679-3d22f580-2a46-11ea-8ad4-84f13658928e.png)
