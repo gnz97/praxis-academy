@@ -44,9 +44,14 @@ Team Collaboration with GitHub
 ![10](https://user-images.githubusercontent.com/47927755/71555590-95ff8780-2a60-11ea-9159-61f2055a47c6.png)
 
 
-
+=>Kembali ke organization untuk melihat repository yang telah di buat
 
 ![11](https://user-images.githubusercontent.com/47927755/71555591-96981e00-2a60-11ea-99b8-9184aa01d6ef.png)
+
+
+
+
+
 
 
 ![12](https://user-images.githubusercontent.com/47927755/71555592-9730b480-2a60-11ea-96e0-de607ba219a6.png)
