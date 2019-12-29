@@ -56,3 +56,12 @@
 =>Ketik git push
 
 ![17](https://user-images.githubusercontent.com/47927755/71553956-b7557900-2a4a-11ea-900a-70a1cd0351a3.png)
+
+=>Setelah itu saya ada melakukan perubahan langsung ke githubnya, namun ketika saya beralih ke terminal, dan mengetik git status, ternyata tidak ada perubahan, sedangkan di githubnya sudah berubah
+![19](https://user-images.githubusercontent.com/47927755/71554145-03ee8380-2a4e-11ea-9a4a-5f713865ac62.png)
+
+=>Setelah itu saya mengetik git fetch untuk memperbarui atau menyamakan dengan repositori github
+![20](https://user-images.githubusercontent.com/47927755/71554147-0bae2800-2a4e-11ea-8086-31683dd68396.png)
+
+=>Setelah itu saya lanjut mengetik git status, dan ternyata statusnya sudah terupdate, di situ terdapat beberapa perubahan
+![21](https://user-images.githubusercontent.com/47927755/71554151-123c9f80-2a4e-11ea-9aa4-569ad5513c33.png)
