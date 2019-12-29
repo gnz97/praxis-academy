@@ -168,18 +168,18 @@ Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru 
 =>Kemudian Data master akan di perbaruhi, dan data yang di tambahkan member telah di masukan ke data master
 ![42](https://user-images.githubusercontent.com/47927755/71555628-a0ba1c80-2a60-11ea-8adb-d688c2dfa4d8.png)
 
-
+=>Tampilan di bawah ini adalah data yang sudah di perbarui
 ![43](https://user-images.githubusercontent.com/47927755/71555629-a152b300-2a60-11ea-895c-f4f8dff9054a.png)
 
-
+=>Kemudian akun master menambahkan data terbaru
 ![44](https://user-images.githubusercontent.com/47927755/71555630-a152b300-2a60-11ea-93a9-9bfc0cf3de9c.png)
 
-
+=>Masukan komentar dan klik commit changes
 ![45](https://user-images.githubusercontent.com/47927755/71555631-a1eb4980-2a60-11ea-857d-be3640716b20.png)
 
-
+=>Data terbaru muncul
 ![46](https://user-images.githubusercontent.com/47927755/71555632-a1eb4980-2a60-11ea-8eb2-6187e04b9414.png)
 
-
+=>Data terbaru yang telah di tambahkan
 ![47](https://user-images.githubusercontent.com/47927755/71555634-a1eb4980-2a60-11ea-9d0f-e2dcaf173727.png)
 
