@@ -52,28 +52,34 @@ Team Collaboration with GitHub
 Ketika kita kilik Invete Team untuk bergabung, bakal ada notivikasi di email tim tersebut, dan ketika di jalankan maka muncul gambar seperti di bawah ini, team harus mengklik tombol join untuk bergabung ke dalam organization,
 ![1](https://user-images.githubusercontent.com/47927755/71555638-c515f900-2a60-11ea-9710-faf782462200.png)
 
+Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru sudah bisa melihat orang-orang yang tergabung di dalam grub tersebut, dan bisa mengelola repositori di dalam grub tersebut
+
 ![2](https://user-images.githubusercontent.com/47927755/71555639-c5ae8f80-2a60-11ea-845d-1ce6f07f394a.png)
 
 
 
 
-
+=>ini adalah tampilan dari akun utama, yang bisa melihat ada member yang di undang telah tergabung
 ![12](https://user-images.githubusercontent.com/47927755/71555592-9730b480-2a60-11ea-96e0-de607ba219a6.png)
 
 
-
+=>Setelah itu klik seting di bagian atas,
 ![13](https://user-images.githubusercontent.com/47927755/71555593-9730b480-2a60-11ea-855b-8038194f67c7.png)
 
 
+=>Setelah itu pilih caloborate & team, kemudian klik create new team 
 ![14](https://user-images.githubusercontent.com/47927755/71555594-9730b480-2a60-11ea-972b-8ae0868d6f4e.png)
 
 
+=>isi nama team
 ![15](https://user-images.githubusercontent.com/47927755/71555595-97c94b00-2a60-11ea-8f2a-9c5c2045792f.png)
 
 
+=>nama tim yang di buat developer_becend, setelah itu klik create team
 ![16](https://user-images.githubusercontent.com/47927755/71555596-97c94b00-2a60-11ea-8878-0c2941b676af.png)
 
 
+=>Setelah team sudah di buat kemudian, invet member, masukan member yang tadi, yang sudah di invete, kedalam team developer_beckend
 ![17](https://user-images.githubusercontent.com/47927755/71555597-97c94b00-2a60-11ea-8b60-fc9c081d9a41.png)
 
 
