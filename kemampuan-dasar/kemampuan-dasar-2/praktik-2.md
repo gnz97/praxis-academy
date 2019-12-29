@@ -4,10 +4,11 @@ Team Collaboration with GitHub
 ![1](https://user-images.githubusercontent.com/47927755/71555580-939d2d80-2a60-11ea-91e0-ffab98d78c2f.png)
 
 
-=> Klik Organisation
+=> Ketika sudah masuk, Klik Organisation
 ![2](https://user-images.githubusercontent.com/47927755/71555581-9435c400-2a60-11ea-85db-29a70d706191.png)
 
 
+=>Muncul Tampilan 
 ![3](https://user-images.githubusercontent.com/47927755/71555583-9435c400-2a60-11ea-91c9-f3cd83531e95.png)
 
 
