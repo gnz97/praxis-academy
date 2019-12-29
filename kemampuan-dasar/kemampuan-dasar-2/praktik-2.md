@@ -75,17 +75,18 @@ Setelah itu maka member baru telah bergabung dalam projek tersebut, member baru 
 ![15](https://user-images.githubusercontent.com/47927755/71555595-97c94b00-2a60-11ea-8f2a-9c5c2045792f.png)
 
 
-=>nama tim yang di buat developer_becend, setelah itu klik create team
+=>nama tim yang di buat developer_backend, setelah itu klik create team
 ![16](https://user-images.githubusercontent.com/47927755/71555596-97c94b00-2a60-11ea-8878-0c2941b676af.png)
 
 
-=>Setelah team sudah di buat kemudian, invet member, masukan member yang tadi, yang sudah di invete, kedalam team developer_beckend
+=>Setelah team sudah di buat kemudian, invet member, masukan member yang tadi, yang sudah di invete, kedalam team developer_backend
 ![17](https://user-images.githubusercontent.com/47927755/71555597-97c94b00-2a60-11ea-8b60-fc9c081d9a41.png)
 
 
 ![18](https://user-images.githubusercontent.com/47927755/71555598-9861e180-2a60-11ea-86df-2bb968e01145.png)
 
 
++>di bawah ini adalah member tim yang tergabung di dalam tim developer_backend
 ![19](https://user-images.githubusercontent.com/47927755/71555600-9861e180-2a60-11ea-9def-4e629f7dde4a.png)
 
 
