@@ -8,3 +8,7 @@
 
 =>Setelah ketik git remote, dan muncul origin menandakan bahwa nama git remote default yaitu origin 
 ![4](https://user-images.githubusercontent.com/47927755/71553553-0ea41b00-2a44-11ea-99ff-edcb6147de83.png)
+
+
+=>Ketik git remote  -v
+![5 2](https://user-images.githubusercontent.com/47927755/71553625-5d9e8000-2a45-11ea-9db5-885382640cce.png)
